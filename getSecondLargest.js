@@ -11,4 +11,4 @@ const getSecondLargest = (numbers) => {
   }
   return secondLargest;
 };
-console.log(getSecondLargest([1, 2, 5, 10, 9, 12]));
+console.log(getSecondLargest([13, 2, 5, 10, 9, 12]));
