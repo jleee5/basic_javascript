@@ -13,3 +13,4 @@ const SayMyName = (schoolId) => {
   }
 };
 console.log(SayMyName(1));
+    
